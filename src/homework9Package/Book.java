@@ -1,4 +1,4 @@
-package com.company;
+package homework9Package;
 
 public class Book {
     String Name;
