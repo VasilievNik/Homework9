@@ -13,6 +13,5 @@ public class Main {
         book2.getBookAllInfo();
         book2.setPublishDate(2021);
         book2.getBookAllInfo();
-        //Gneg
     }
 }
